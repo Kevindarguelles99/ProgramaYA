@@ -1,0 +1,3 @@
+Sería bueno buscar cuales son las mejores prácticas para aplicar estilos.
+En este caso no se usó ningun framework ¿Cómo se usu?
+ADicionalmente, el proyecto está en un disco local¿Cómo respaldo el código en la nube con git, y cómo monto la página en la web?
